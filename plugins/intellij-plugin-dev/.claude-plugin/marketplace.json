@@ -1,0 +1,15 @@
+{
+  "name": "local-intellij-plugin-dev",
+  "owner": {
+    "name": "masivotech"
+  },
+  "plugins": [
+    {
+      "name": "intellij-plugin-dev",
+      "source": ".",
+      "description": "Comprehensive skills, commands, and agent for JetBrains/IntelliJ Platform Plugin SDK development",
+      "version": "1.0.0",
+      "keywords": ["intellij", "jetbrains", "android-studio", "plugin", "kotlin", "gradle", "psi", "vfs"]
+    }
+  ]
+}

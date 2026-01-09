@@ -1,0 +1,30 @@
+{
+  "name": "masivotech-plugins",
+  "owner": {
+    "name": "masivotech"
+  },
+  "plugins": [
+    {
+      "name": "intellij-plugin-dev",
+      "source": "./plugins/intellij-plugin-dev",
+      "description": "Comprehensive skills, commands, and agent for JetBrains/IntelliJ Platform Plugin SDK development",
+      "version": "1.0.0",
+      "author": {
+        "name": "masivotech"
+      },
+      "homepage": "https://github.com/masivotech/masivotech-claude-code",
+      "repository": "https://github.com/masivotech/masivotech-claude-code",
+      "license": "MIT",
+      "keywords": [
+        "intellij",
+        "jetbrains",
+        "android-studio",
+        "plugin-development",
+        "kotlin",
+        "gradle",
+        "psi",
+        "vfs"
+      ]
+    }
+  ]
+}

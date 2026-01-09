@@ -1,0 +1,20 @@
+{
+  "name": "intellij-plugin-dev",
+  "version": "1.0.0",
+  "description": "Comprehensive skills, commands, and agent for JetBrains/IntelliJ Platform Plugin SDK development. Covers extension points, PSI, VFS, Gradle configuration, testing, and publishing.",
+  "author": {
+    "name": "masivotech"
+  },
+  "repository": "https://github.com/masivotech/masivotech-claude-code",
+  "license": "MIT",
+  "keywords": [
+    "intellij",
+    "jetbrains",
+    "android-studio",
+    "plugin-development",
+    "kotlin",
+    "gradle",
+    "psi",
+    "vfs"
+  ]
+}
